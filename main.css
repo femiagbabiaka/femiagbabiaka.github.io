@@ -24,3 +24,7 @@ body {
 .description {
   padding-top: 20px;
 }
+
+.header-background {
+  font-family: 'Playfair Display', serif;
+}
