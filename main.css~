@@ -9,7 +9,6 @@
 
 body {
   padding-top: 70px;
-  background-image: "noisy-texture-100x100-o56.99999999999999-d48-c-e7f5e8-t1";
 }
 
 .center-block {
