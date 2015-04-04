@@ -7,7 +7,7 @@
 }
 
 body {
-  padding-top: 50px;
+  padding-top: 60px;
   background-color: 5f783e;
   color: white;
   overflow-x: hidden;
@@ -28,7 +28,7 @@ body {
 }
 
 .header-background {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .center-block {
@@ -39,4 +39,9 @@ body {
 
 .thatonelink {
   color: brown;
+}
+
+.makeitbrown {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
 }
