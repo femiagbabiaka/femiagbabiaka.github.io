@@ -29,3 +29,9 @@ body {
 .header-background {
   font-family: 'Playfair Display', serif;
 }
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
