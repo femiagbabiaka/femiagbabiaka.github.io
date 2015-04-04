@@ -9,7 +9,7 @@
 
 body {
   padding-top: 70px;
-  background-image: "noisy-texture-100x100-o56.99999999999999-d48-c-e7f5e8-t1.png";
+  background-color: 5f783e;
 }
 
 .center-block {
@@ -19,7 +19,6 @@ body {
 .profile-pic {
   max-height: 280px;
   max-width: 280px;
-  border: 2px solid black;
 }
 
 .description {
